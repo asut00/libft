@@ -1,6 +1,5 @@
-# Libft
-
-Welcome to **libft**! 📚  
+# Libft 📚
+ 
 This project is a custom C library that recreates many standard C library functions and adds additional utility functions to make development in C easier and more efficient.
 
 ## Table of Contents
